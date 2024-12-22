@@ -1,3 +1,4 @@
+# Ep.no:03 Date:19/10/24
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -21,9 +22,12 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
-![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
+![image](https://github.com/user-attachments/assets/b75f4a20-592d-46bf-b307-a7c6066259cf)
 
 
 # Result
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
+
 
 # Output 
+![image](https://github.com/user-attachments/assets/c351c0a9-ef96-43ac-8bfa-b82a9635a469)
